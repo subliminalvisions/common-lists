@@ -1,0 +1,112 @@
+Alabama, United States (US)
+Alaska, United States (US)
+Arizona, United States (US)
+Arkansas, United States (US)
+California, United States (US)
+Colorado, United States (US)
+Connecticut, United States (US)
+Delaware, United States (US)
+District of Columbia, United States (US)
+Florida, United States (US)
+Georgia, United States (US)
+Hawaii, United States (US)
+Idaho, United States (US)
+Illinois, United States (US)
+Indiana, United States (US)
+Iowa, United States (US)
+Kansas, United States (US)
+Kentucky, United States (US)
+Louisiana, United States (US)
+Maine, United States (US)
+Maryland, United States (US)
+Massachusetts, United States (US)
+Michigan, United States (US)
+Minnesota, United States (US)
+Mississippi, United States (US)
+Missouri, United States (US)
+Montana, United States (US)
+Nebraska, United States (US)
+Nevada, United States (US)
+New Hampshire, United States (US)
+New Jersey, United States (US)
+New Mexico, United States (US)
+New York, United States (US)
+North Carolina, United States (US)
+North Dakota, United States (US)
+Ohio, United States (US)
+Oklahoma, United States (US)
+Oregon, United States (US)
+Pennsylvania, United States (US)
+Rhode Island, United States (US)
+South Carolina, United States (US)
+South Dakota, United States (US)
+Tennessee, United States (US)
+Texas, United States (US)
+Utah, United States (US)
+Vermont, United States (US)
+Virginia, United States (US)
+Washington, United States (US)
+West Virginia, United States (US)
+Wisconsin, United States (US)
+Wyoming, United States (US)
+
+
+
+
+List of United States & regions
+
+API Format: CountryCode_StateCode
+
+State	State Code / Abbreviation	
+Alabama	AL	US_AL
+Alaska	AK	US_AK
+Arizona	AZ	US_AZ
+Arkansas	AR	US_AR
+California	CA	US_CA
+Colorado	CO	US_CO
+Connecticut	CT	US_CT
+Delaware	DE	US_DE
+Florida	FL	US_FL
+Georgia	GA	US_GA
+Hawaii	HI	US_HI
+Idaho	ID	US_ID
+Illinois	IL	US_IL
+Indiana	IN	US_IN
+Iowa	IA	US_IA
+Kansas	KS	US_KS
+Kentucky	KY	US_KY
+Louisiana	LA	US_LA
+Maine	ME	US_ME
+Maryland	MD	US_MD
+Massachusetts	MA	US_MA
+Michigan	MI	US_MI
+Minnesota	MN	US_MN
+Mississippi	MS	US_MS
+Missouri	MO	US_MO
+Montana	MT	US_MT
+Nebraska	NE	US_NE
+Nevada	NV	US_NV
+New Hampshire	NH	US_NH
+New Jersey	NJ	US_NJ
+New Mexico	NM	US_NM
+New York	NY	US_NY
+North Carolina	NC	US_NC
+North Dakota	ND	US_ND
+Ohio	OH	US_OH
+Oklahoma	OK	US_OK
+Oregon	OR	US_OR
+Pennsylvania	PA	US_PA
+Rhode Island	RI	US_RI
+South Carolina	SC	US_SC
+South Dakota	SD	US_SD
+Tennessee	TN	US_TN
+Texas	TX	US_TX
+Utah	UT	US_UT
+Vermont	VT	US_VT
+Virginia	VA	US_VA
+Washington	WA	US_WA
+West Virginia	WV	US_WV
+Wisconsin	WI	US_WI
+Wyoming	WY	US_WY
+
+

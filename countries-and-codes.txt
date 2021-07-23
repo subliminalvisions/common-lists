@@ -1,0 +1,453 @@
+Country
+
+Code
+
+A	 
+Afghanistan (AF)	100
+Albania (AL)	101
+Algeria (DZ)	080
+Andorra (AD)	102
+Angola (AO)	103
+Anguilla (AI)	199
+Antigua & Barbuda (includes Redonda) (AG)	192
+Argentina (AR)	026
+Armenia (AM)	200
+Aruba (AW)	201
+Ascension 	104
+Australia (AU)	007
+Austria (AT)	036
+Azerbaijan (AZ)	202
+Azores (PT)	105
+B	 
+Bahamas (BS)	045
+Bahrain (BH)	071
+Bangladesh (BD)	089
+Barbados (BB)	058
+Belarus (BY)	203
+Belgium (BE)	013
+Belize (BZ)	106
+Benin (BJ)	107
+Bermuda (BM)	022
+Bhutan (BT)	108
+Bolivia (BO)	056
+Bosnia-Herzegovina (BA)	053
+Botswana (BW)	109
+Brazil (BR)	008
+British Virgin Islands 	204
+Brunei Darussalam (BN)	110
+Bulgaria (BG)	111
+Burkina Faso (BF)	184
+Burma (MM)	112
+Burundi (BI)	113
+C	 
+Cambodia (Kampuchea) (KH)	138
+Cameroon (CM)	114
+Canada (CA)	006
+Cape Verde (CV)	115
+Cayman Islands (KY)	116
+Central African Republic (CF)	117
+Chad (TD)	118
+Chile (CL)	038
+China (CN)	091
+Colombia (CO)	017
+Comoros (KM)	119
+Congo, Democratic Republic of The (CD)	081
+Congo, Republic of The (Brazzaville) (CG)	120
+Corsica (FR)	121
+Costa Rica (CR)	049
+Cote d'Ivoire  (Ivory Coast) (CI)	137
+Croatia (HR)	205
+Cuba (CU)	073
+Cyprus (CY)	092
+Czech Republic (CZ)	066
+D	 
+Denmark (DK)	032
+Djibouti (DJ)	122
+Dominica (DM)	090
+Dominican Republic (DO)	042
+E    
+Ecuador (EC)	034
+Egypt (EG)	062
+El Salvador (SV)	044
+Equatorial Guinea (GQ)	124
+Eritrea (ER)	131
+Estonia (EE)	125
+Ethiopia (ET)	086
+F	 
+Falkland Islands (FK)	127
+Faroe Islands (FO)	126
+Fiji (FJ)	094
+Finland (FI)	052
+France (includes Monaco) (FR)	004
+French Guiana (GF)	128
+French Polynesia (Tahiti) (PF)	096
+G	 
+Gabon (GA)	129
+Gambia (GM)	130
+Georgia, Republic of (GE)	206
+Germany (DE)	002
+Ghana (GH)	069
+Gibraltar (GI)	132
+Great Britain & Northern Ireland (GB)	001
+Greece (GR)	025
+Greenland (GL)	134
+Grenada (GD)	193
+Guadeloupe (includes Saint Martin) (GP)	135
+Guatemala (GT)	040
+Guinea (GN)	093
+Guinea-Bissau (GW)	136
+Guyana (GY)	061
+H	 
+Haiti (HT)	064
+Honduras (HN)	050
+Hong Kong (includes Kowloon) (HK)	018
+Hungary (HU)	063
+I	 
+Iceland (IS)	077
+India (IN)	020
+Indonesia (ID)	051
+Iran (IR)	024
+Iraq (IQ)	079
+Ireland (Eire) (IE)	033
+Israel (IL)	023
+Italy (IT)	009
+Ivory Coast (CI)	137
+J	 
+Jamaica (JM)	029
+Japan (JP)	003
+Jordan (JO)	075
+K	 
+Kampuchea (Cambodia) 	138
+Kazakhstan (KZ)	207
+Kenya (KE)	065
+Kiribati (KI)	133
+Korea, Democratic People's Republic of (N. Korea) (KP)	194
+Korea, Republic of (S. Korea) (KR)	031
+Kuwait (KW)	060
+Kyrgyzstan (KG)	206
+L	 
+Laos (LA)	139
+Latvia (LV)	140
+Lebanon (LB)	141
+Lesotho (LS)	142
+Liberia (LR)	070
+Libya	076
+Liechtenstein (LI)	189
+Lithuania (LT)	143
+Luxembourg (LU)	088
+M	 
+Macao (MO)	144
+Macedonia, Republic of (MK)	209
+Madagascar (MG)	145
+Madeira Islands (PT)	146
+Malawi (MW)	147
+Malaysia (MY)	055
+Maldives (MV)	148
+Mali (ML)	149
+Malta (MT)	097
+Marshall Islands, Republic of (MH)	229
+Martinique (MQ)	099
+Mauritania (MR)	151 
+Mauritius (MU)	150
+Mexico (MX)	005
+Micronesia, Federated States of (FM)	243
+Moldova (MD)	210
+Mongolia (MN)	152
+Montenegro (Serbia-Montenegro) (ME)	212
+Montserrat (MS)	191
+Morocco (MA)	083
+Mozambique (MZ)	153
+N	 	  
+Namibia (NA)	082 
+Nauru (NR)	154
+Nepal (NP)	155
+Netherlands (NL)	011
+Netherlands Antilles (includes Bonaire, Curacao, Saba, St. Eustatius and St, Maarten) (NL)	156
+New Caledonia (NC)	157
+New Zealand (NZ)	030
+Nicaragua (NI)	057
+Niger (NE)	159
+Nigeria (NG)	048
+Norway (NO)	027
+O	 
+Oman (OM)	160
+P	 
+Pakistan (PK)	059
+Panama (PA)	041
+Papua New Guinea (PG)	161
+Paraguay (PY)	076
+Peru (PE)	039
+Philippines (PH)	012
+Pitcaim Islands 	190
+Poland (PL)	028
+Portugal (PT)	054
+Q	 
+Qatar (QA)	162
+R	 
+Reunion (RE)	163
+Romania (RO)	072
+Russia (Russian Federation) (RU)	037
+Rwanda (RW)	164
+S	 
+St. Christopher (St. Kitts) & Nevis (KN)	198
+St. Helena (SH)	165
+St. Lucia (LC)	197 
+St. Pierre & Miquelon (PM)	167
+St. Vincent & the Grenadines (VC)	196
+San Marino (SM)	219
+Santa Cruz Islands (SB)	172
+Sao Tome & Principe (ST)	166
+Saudi Arabia (SA)	046
+Senegal (SN)	169
+Serbia-Montenegro (Yugoslavia) (RS)	212
+Seychelles (SC)	170
+Sierra Leone (SL)	171
+Singapore (SG)	035
+Slovak Republic (Slovakia) (SK)	213
+Slovenia (SI)	214
+Solomon Islands (includes Santa Cruz Islands) (SB)	172
+Somalia (SO)	173
+South Africa (ZA)	019
+Spain (ES)	016
+Sri Lanka (LK)	087
+Sudan (SD)	174
+Suriname (SR)	074
+Swaziland (SZ)	175
+Sweden (SE)	015
+Switzerland (CH)	010
+Syrian Arab Republic (SY)	085
+T	 
+Tahiti (PF)	096
+Taiwan (TW)	021
+Tajikistan (TJ)	215
+Tanzania (TZ)	098
+Thailand (TH)	047
+Togo (TG)	176
+Tonga (TO)	177
+Trinidad & Tobago (TT)	043
+Tristan da Cunha	178
+Tunisia (TN)	179
+Turkey (TR)	180
+Turkmenistan (TM)	216
+Turks & Caicos Islands (TC)	181
+Tuvalu (TV)	182
+U	 
+Uganda (UG)	183
+Ukraine (UA)	217
+United Arab Emirates (AE)	067
+United Kingdom (includes England, Scotland, Wales, and N. Ireland) (GB)	001
+Uruguay (UY)	068
+Uzbekistan (UZ)	218
+V	 
+Vanuatu (VU)	158
+Vatican City (VA)	185
+Venezuela (VE)	014
+Vietnam (VN)	186
+Virgin Islands (VG)	204
+W	 
+Wallis & Futuna Islands (WF)	195
+Western Samoa	187
+Y	 
+Yemen (YE)	188
+Z	 	 
+Zambia (ZM)	084
+Zimbabwe (ZW)	095
+
+Country/Region Name	Official Abbreviation
+Albania	AL
+Algeria	DZ
+Andorra	AD
+Anguilla	AI
+Antigua and Barbuda	AG
+Argentina	AR
+Armenia	AM
+Aruba	AW
+Australia	AU
+Austria	AT
+Azerbaijan	AZ
+Bahamas	BS
+Bahrain	BH
+Bangladesh	BD
+Barbados	BB
+Belgium	BE
+Belize	BZ
+Bermuda	BM
+Bhutan	BT
+Bolivia	BO
+Bosnia and Herzegovina	BA
+Botswana	BW
+Brazil	BR
+Bulgaria	BG
+Cambodia	KH
+Canada	CA
+Cayman Islands	KY
+Chile	CL
+Colombia	CO
+Costa Rica	CR
+Croatia	HR
+Cyprus	CY
+Czech Republic	CZ
+Denmark	DK
+Dominica	DM
+Dominican Republic	DO
+Ecuador	EC
+Egypt	EG
+El Salvador	SV
+Estonia	EE
+Fiji	FJ
+Finland	FI
+France	FR
+Gabon	GA
+Georgia	GE
+Germany	DE
+Ghana	GH
+Gibraltar	GI
+Greece	GR
+Grenada	GD
+Guatemala	GT
+Guyana	GY
+Honduras	HN
+Hungary	HU
+Iceland	IS
+India	IN
+Indonesia	ID
+Ireland	IE
+Israel	IL
+Italy	IT
+Jamaica	JM
+Japan	JP
+Jersey	JE
+Jordan	JO
+Kazakhstan	KZ
+Kenya	KE
+Kuwait	KW
+Kyrgyzstan	KG
+Latvia	LV
+Liechtenstein	LI
+Lithuania	LT
+Luxembourg	LU
+North Macedonia	MK
+Malaysia	MY
+Maldives	MV
+Malta	MT
+Mauritius	MU
+Mexico	MX
+Moldova	MD
+Monaco	MC
+Mongolia	MN
+Montenegro	ME
+Montserrat	MS
+Morocco	MA
+Myanmar	MM
+Namibia	NA
+Nepal	NP
+Netherlands	NL
+New Zealand	NZ
+Nicaragua	NI
+Nigeria	NG
+Niue	NU
+Norway	NO
+Oman	OM
+Pakistan	PK
+Panama	PA
+Paraguay	PY
+Peru	PE
+Philippines	PH
+Poland	PL
+Portugal	PT
+Puerto Rico	PR
+Romania	RO
+Russia	RU
+Saint Helena	SH
+Saint Lucia	LC
+San Marino	SM
+Saudi Arabia	SA
+Serbia	RS
+Seychelles	SC
+Singapore	SG
+Slovakia	SK
+Slovenia	SI
+South Africa	ZA
+South Korea	KR
+Spain	ES
+Sri Lanka	LK
+Suriname	SR
+Swaziland	SZ
+Sweden	SE
+Switzerland	CH
+Taiwan, China	TW
+Thailand	TH
+Tonga	TO
+Trinidad and Tobago	TT
+Tunisia	TN
+Turkey	TR
+Ukraine	UA
+United Arab Emirates	AE
+United Kingdom (Great Britain)	GB
+United States	US
+Uruguay	UY
+Uzbekistan	UZ
+Venezuela	VE
+Vietnam	VN
+Virgin Islands, British	VG
+Virgin Islands, U.S.	VI
+Zambia	ZM
+
+
+
+List of Regions
+
+
+
+Region Name, Country	Region Code / Abbreviation	API Format: CountryCode_RegionCode
+French Guiana, FR	GF	FR_GF
+French Polynesia, FR	PF	FR_PF
+Guadeloupe, FR	GP	FR_GP
+Martinique, FR	MQ	FR_MQ
+Mayotte, FR	YT	FR_YT
+New Caledonia, FR	NC	FR_NC
+Reunion, FR	RE	FR_RE
+Saint Martin, FR	MF	FR_MF
+Saint Pierre & Miquelon, FR	PM	FR_PM
+Wallis & Futuna, FR	WF	FR_WF
+Canary Islands, ES	CN	ES_CN
+AA, US	AA	US_AA
+AE, US	AE	US_AE
+AP, US	AP	US_AP
+American Samoa, US	AS	US_AS
+Guam, US	GU	US_GU
+Northern Mariana Islands, US	MP	US_MP
+Greenland, DK	GL	DK_GL
+
+
+
+List of Australia States
+
+Australia State	Region Code / Abbreviation	API Format: CountryCode_RegionCode
+Australian Capital Territory	ACT	AU_ACT
+New South Wales	NSW	AU_NSW
+Northern Territory	NT	AU_NT
+Queensland	QLD	AU_QLD
+South Australia	SA	AU_SA
+Tasmania	TAS	AU_TAS
+Victoria	VIC	AU_VIC
+Western Australia	WA	AU_WA
+ 
+
+List of Brazil Subregions
+
+
+Brazil Subregion Name	Region Code / Abbreviation	API Format: CountryCode_RegionCode
+SP Capital & Metro Area	SPC	BR_SPC
+SP Interior	SPI	BR_SPI
+RJ Capital & Metro Area	RJC	BR_RJC
+RJ Interior & ES	RJI	BR_RJI
+MG Capital & Metro Area	MGC	BR_MGC
+MG Interior	MGI	BR_MGI
+BA Capital & Metro Area	BAC	BR_BAC
+BA Interior, SE, & Sede Recife	BAI	BR_BAI
+PR Capital & Metro Area	PRC	BR_PRC
+PR Interior, SC, & RS Interior	PRI	BR_PRI
+RS Capital & Metro Area	RSC	BR_RSC
+Sede Fortaleza & Sede Brasilia	SFB	BR_SFB
+
