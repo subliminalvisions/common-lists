@@ -1,0 +1,51 @@
+/* Browser Specific Media Queries  */
+/* Chrome & Safari (any version) ... Webkit */
+@media screen and (-webkit-min-device-pixel-ratio:0) { 
+
+}
+
+
+/* Safari (from 6.1 to 10.0) */
+@media screen and (min-color-index:0) and(-webkit-min-device-pixel-ratio:0) {
+    @media {
+        .safari6 {
+            color:#0000FF;
+            background-color:#CCCCCC;
+        }
+    }
+}
+
+/* Safari (10.1+) */
+
+@media not all and (min-resolution:.001dpcm) { 
+    @media {
+        .safari10 { 
+            color:#0000FF; 
+            background-color:#CCCCCC; 
+        }
+    }
+}
+1
+2
+3
+4
+5
+6
+7
+8
+@media not all and (min-resolution:.001dpcm) { 
+    @media {
+        .safari10 { 
+            color:#0000FF; 
+            background-color:#CCCCCC; 
+        }
+    }
+}
+
+
+/* FireFox - Any version (Gecko) */
+@-moz-document url-prefix() {
+    .ff {
+        color: red;
+    }
+}
