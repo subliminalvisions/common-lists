@@ -62,3 +62,20 @@
 _:-ms-fullscreen, :root .ie11up { property: value; }
 
 
+
+/* issue with placeholder on input just on iphone */
+@media not all and (min-resolution:.001dpcm) {​​​​​​​
+    @supports (-webkit-appearance:none) {​​​​​​​
+        margin-top: 5.8rem;
+        @include media-breakpoint-down(xs) {​​​​​​​
+            margin-top: 7.3rem;
+        }​​​​​​​
+    }​​​​​​​
+}​​​​​​​
+/* or  */
+_::-webkit-full-page-media, _:future, :root .safari_only {
+    color:#0000FF; 
+    background-color:#CCCCCC; 
+  }
+
+  
